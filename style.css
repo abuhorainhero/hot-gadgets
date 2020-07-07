@@ -1,0 +1,28 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-buttom{
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.text{
+    padding: 10px 30px;
+}
+.card img {
+    max-width: 90%;
+}
+.see{
+    color: orange;
+}
+.card-text{
+    text-align: center;
+}
+.cat{
+    text-align: center;
+}
+.categ{
+    background: white;
+    
+}
