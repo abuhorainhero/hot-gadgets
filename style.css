@@ -15,6 +15,7 @@
 }
 .see{
     color: orange;
+    margin-bottom: 50px;
 }
 .card-text{
     text-align: center;
@@ -24,5 +25,19 @@
 }
 .categ{
     background: white;
-    
+}
+.under-line{
+    height: 8px;
+    background-color: orange;
+    width: 100px;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-bottom: 50px;
+
+}
+.pale-order img{
+    width: 100%;
+}
+.ca{
+    margin-top: 150px;
 }
